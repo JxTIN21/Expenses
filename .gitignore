@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+frontend/.env
+backend/.env
+
+# Node modules (if using Node.js in frontend/backend)
+node_modules/
+
+# Build/Dist folders
+dist/
+build/
+
+# Python cache files (if using Python backend)
+__pycache__/
+*.pyc
